@@ -1,0 +1,3 @@
+[submodule "telescope"]
+	path = telescope
+	url = https://github.com/clemapfel/telescope.git
